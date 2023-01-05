@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"golang.org/x/tour/tree"
+	"golang.org/x/tour/tree" // imported from tour
 )
 
 // Walk walks the tree t sending all values
